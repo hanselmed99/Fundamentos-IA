@@ -15,7 +15,7 @@ namespace _8_PuzzleGame
 
         public List<States> hijos = new List<States>();
         public States parent;
-        int[] estadoInicialFacil = new int[9];
+        public int[] estadoInicialFacil = new int[9];
         int x = 0;
         int col = 3;
 
@@ -113,10 +113,23 @@ namespace _8_PuzzleGame
             {
                 for(int j = 0; j < col; j++)
                 {
-                    Console.WriteLine(estadoInicialFacil[meta] + " ");
+                    Console.Write(estadoInicialFacil[meta] + " ");
                     meta++;
                 }
             }
+        }
+
+        public bool mismoPuzzle(int[] p)
+        {
+            bool mismoPuzzle = true;
+            for(int i = 0; i < p.Length; i++)
+            {
+                if(estadoInicialFacil[i] != p[i])
+                {
+                    mismoPuzzle = false;
+                }
+            }
+            return mismoPuzzle;
         }
 
         public void copiaPuzzle(int[] a, int[] b)
@@ -137,14 +150,14 @@ namespace _8_PuzzleGame
 
         public bool metaAlcanzada()
         {
-            bool esMeta = false;
+            bool esMeta = true;
             int meta = estadoInicialFacil[0];
 
             for(int i=0; i<estadoInicialFacil.Length; i++)
             {
                 if(meta > estadoInicialFacil[i])
                 {
-                    esMeta = true;
+                    esMeta = false;
                 }
                 meta = estadoInicialFacil[i];
             }
