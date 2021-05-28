@@ -1,0 +1,13 @@
+C:\Users\hanse\OneDrive\Documentos\Fundamentos IA\8_PuzzleGame\8_PuzzleGame\bin\Debug\netcoreapp3.1\8_PuzzleGame.exe
+C:\Users\hanse\OneDrive\Documentos\Fundamentos IA\8_PuzzleGame\8_PuzzleGame\bin\Debug\netcoreapp3.1\8_PuzzleGame.deps.json
+C:\Users\hanse\OneDrive\Documentos\Fundamentos IA\8_PuzzleGame\8_PuzzleGame\bin\Debug\netcoreapp3.1\8_PuzzleGame.runtimeconfig.json
+C:\Users\hanse\OneDrive\Documentos\Fundamentos IA\8_PuzzleGame\8_PuzzleGame\bin\Debug\netcoreapp3.1\8_PuzzleGame.runtimeconfig.dev.json
+C:\Users\hanse\OneDrive\Documentos\Fundamentos IA\8_PuzzleGame\8_PuzzleGame\bin\Debug\netcoreapp3.1\8_PuzzleGame.dll
+C:\Users\hanse\OneDrive\Documentos\Fundamentos IA\8_PuzzleGame\8_PuzzleGame\bin\Debug\netcoreapp3.1\8_PuzzleGame.pdb
+C:\Users\hanse\OneDrive\Documentos\Fundamentos IA\8_PuzzleGame\8_PuzzleGame\obj\Debug\netcoreapp3.1\8_PuzzleGame.csprojAssemblyReference.cache
+C:\Users\hanse\OneDrive\Documentos\Fundamentos IA\8_PuzzleGame\8_PuzzleGame\obj\Debug\netcoreapp3.1\8_PuzzleGame.AssemblyInfoInputs.cache
+C:\Users\hanse\OneDrive\Documentos\Fundamentos IA\8_PuzzleGame\8_PuzzleGame\obj\Debug\netcoreapp3.1\8_PuzzleGame.AssemblyInfo.cs
+C:\Users\hanse\OneDrive\Documentos\Fundamentos IA\8_PuzzleGame\8_PuzzleGame\obj\Debug\netcoreapp3.1\8_PuzzleGame.csproj.CoreCompileInputs.cache
+C:\Users\hanse\OneDrive\Documentos\Fundamentos IA\8_PuzzleGame\8_PuzzleGame\obj\Debug\netcoreapp3.1\8_PuzzleGame.dll
+C:\Users\hanse\OneDrive\Documentos\Fundamentos IA\8_PuzzleGame\8_PuzzleGame\obj\Debug\netcoreapp3.1\8_PuzzleGame.pdb
+C:\Users\hanse\OneDrive\Documentos\Fundamentos IA\8_PuzzleGame\8_PuzzleGame\obj\Debug\netcoreapp3.1\8_PuzzleGame.genruntimeconfig.cache
