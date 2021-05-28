@@ -1,0 +1,7 @@
+D:\CarpetaProtegida\Fundamentos IA\FirstIA\FirstIA\bin\Debug\FirstIA.exe.config
+D:\CarpetaProtegida\Fundamentos IA\FirstIA\FirstIA\bin\Debug\FirstIA.exe
+D:\CarpetaProtegida\Fundamentos IA\FirstIA\FirstIA\bin\Debug\FirstIA.pdb
+D:\CarpetaProtegida\Fundamentos IA\FirstIA\FirstIA\obj\Debug\FirstIA.csprojAssemblyReference.cache
+D:\CarpetaProtegida\Fundamentos IA\FirstIA\FirstIA\obj\Debug\FirstIA.csproj.CoreCompileInputs.cache
+D:\CarpetaProtegida\Fundamentos IA\FirstIA\FirstIA\obj\Debug\FirstIA.exe
+D:\CarpetaProtegida\Fundamentos IA\FirstIA\FirstIA\obj\Debug\FirstIA.pdb
